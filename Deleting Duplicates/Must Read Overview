@@ -2,7 +2,4 @@ It is a Python Scripts that removes the all the duplicates of the given file or 
 
 NOTE :- 
 
-1) This script should be present in the same folder from which user want to remove the duplicates if user don't want to 
-enter path of the folder in which file is saved.
-
-2) If the user don't want to put this script in the folder he/she can also give the path of the folder in which file is saved.
+1) This script should be present in the same folder from which user want to remove the duplicates.
