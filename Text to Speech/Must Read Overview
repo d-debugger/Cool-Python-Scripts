@@ -1,0 +1,5 @@
+It is a Python Script that converts the text file into an audio file using gtts(Google Text To Speech).
+
+NOTE :- 
+
+1) This script takes input file in .txt format and generate an audio file in .wav or .mp3 format depends on user's choice.
