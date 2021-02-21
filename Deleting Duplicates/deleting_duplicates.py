@@ -1,7 +1,6 @@
 import filecmp
 import os
 
-
 print("\nINPUT NUMBER OF FILES WHOSE DUPLICATES YOU WANT TO REMOVE: ")
 n=int(input())
 
