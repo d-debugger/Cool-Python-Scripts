@@ -1,0 +1,7 @@
+It is a Python Script that can upload user's photo on INSTAGRAM with caption included.
+
+NOTE :-
+
+1) User's need to give the input to the bot that includes - username , password , photo and caption.
+
+2) Bot will login itself and upload the photo with the given caption.
